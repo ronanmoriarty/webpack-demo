@@ -253,3 +253,4 @@ tools/
 
 **/appSettings.json
 test-results/
+dist/main.js
